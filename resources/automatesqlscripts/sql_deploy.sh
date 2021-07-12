@@ -7,6 +7,8 @@
 
 ###########################################################
 
+mkdir output.txt
+
 echo "1. Please enter SQL file source path: "
 
 read path
